@@ -3,9 +3,9 @@ library ms_undraw;
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:http/http.dart' as http;
-import 'package:ms_undraw/illustrations.g.dart';
+import 'package:undraw_illustrations/illustrations.g.dart';
 
-export 'package:ms_undraw/illustrations.g.dart';
+export 'package:undraw_illustrations/illustrations.g.dart';
 
 final _memCacheSvg = <String, String>{};
 

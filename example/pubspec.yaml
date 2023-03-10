@@ -12,7 +12,7 @@ dependencies:
   context_menus: ^1.0.1
   flutter:
     sdk: flutter
-  ms_undraw:
+  undraw_illustrations:
     path: ../
   url_launcher: ^6.0.20
 

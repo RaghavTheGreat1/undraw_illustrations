@@ -4,7 +4,10 @@ import 'dart:math';
 import 'package:context_menus/context_menus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:ms_undraw/ms_undraw.dart';
+import 'package:undraw_illustrations/illustrations.g.dart';
+import 'package:undraw_illustrations/undraw_illustrations.dart';
+
+
 import 'package:url_launcher/url_launcher.dart';
 
 void main() => runApp(const MyApp());
